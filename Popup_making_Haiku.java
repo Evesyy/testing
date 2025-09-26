@@ -17,7 +17,7 @@ public class Popup_making_Haiku {
             null,
             "We gon make haiku for ur crush, let’s go?",
             "Haiku Generator",
-            JOptionPane.YES_NO_OPTION
+            JOptionPane.YES_NO_OPTIOn
         );
         
         //STOP PROGRAM
